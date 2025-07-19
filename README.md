@@ -1,4 +1,4 @@
-# Server Farm Load Balancer Simulation
+# Server Dispatching Simulation
 
 A comprehensive Java simulation that models server farm job distribution using multiple dispatching algorithms to optimize server utilization and minimize job waiting times.
 
